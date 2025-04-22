@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Исследуемые ЭЭУ центроиды",
+"features": [
+{ "type": "Feature", "properties": { "fid": 4, "NATURAL": "heath", "OSM_TYPE": "relation", "OSM_ID": 8073856, "NAME": "Пустырь" }, "geometry": { "type": "Point", "coordinates": [ 37.751433135243417, 44.670128208335086 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "NATURAL": "scrub", "OSM_TYPE": "relation", "OSM_ID": 8073857, "NAME": "Река \"Мысхако\"" }, "geometry": { "type": "Point", "coordinates": [ 37.752612594144232, 44.672682679585598 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "NATURAL": "beach", "OSM_TYPE": "way", "OSM_ID": 241225502, "NAME": "Дикий пляж" }, "geometry": { "type": "Point", "coordinates": [ 37.756077790178907, 44.654283214019628 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "NATURAL": "beach", "OSM_TYPE": "way", "OSM_ID": 241225503, "NAME": "Дикий пляж" }, "geometry": { "type": "Point", "coordinates": [ 37.753054109216279, 44.65346503584577 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "NATURAL": "beach", "OSM_TYPE": "way", "OSM_ID": 241225505, "NAME": "Пляж центральный" }, "geometry": { "type": "Point", "coordinates": [ 37.763131969017671, 44.655620516083324 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "NATURAL": "beach", "OSM_TYPE": "way", "OSM_ID": 241225508, "NAME": "Дикий пляж" }, "geometry": { "type": "Point", "coordinates": [ 37.759400810854714, 44.654306946487083 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "NATURAL": "beach", "OSM_TYPE": "way", "OSM_ID": 247626905, "NAME": "Пляж Больничный" }, "geometry": { "type": "Point", "coordinates": [ 37.77059367475205, 44.658292073959437 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "NATURAL": "beach", "OSM_TYPE": "way", "OSM_ID": 247645573, "NAME": "Пляж Центральный" }, "geometry": { "type": "Point", "coordinates": [ 37.766277719965188, 44.656799869722086 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "NATURAL": "beach", "OSM_TYPE": "way", "OSM_ID": 446693862, "NAME": "Пляж Центральный" }, "geometry": { "type": "Point", "coordinates": [ 37.76478431166143, 44.656592171103966 ] } },
+{ "type": "Feature", "properties": { "fid": 26, "NATURAL": "scrub", "OSM_TYPE": "way", "OSM_ID": 566150608, "NAME": "Река \"Мысхако\"" }, "geometry": { "type": "Point", "coordinates": [ 37.750819136319976, 44.666293985995502 ] } },
+{ "type": "Feature", "properties": { "fid": 27, "NATURAL": "heath", "OSM_TYPE": "way", "OSM_ID": 566150635, "NAME": "Пустырь" }, "geometry": { "type": "Point", "coordinates": [ 37.731004313429352, 44.677331354316401 ] } },
+{ "type": "Feature", "properties": { "fid": 28, "NATURAL": "field", "OSM_TYPE": "way", "OSM_ID": 243432544, "NAME": "Гора \"Колдун\"" }, "geometry": { "type": "Point", "coordinates": [ 37.747105708090388, 44.655765332761753 ] } },
+{ "type": "Feature", "properties": { "fid": 29, "NATURAL": "field", "OSM_TYPE": "way", "OSM_ID": 42423423, "NAME": "Историко-культурный комплекс" }, "geometry": { "type": "Point", "coordinates": [ 37.753989233897485, 44.657055192435493 ] } },
+{ "type": "Feature", "properties": { "fid": 30, "NATURAL": "field", "OSM_TYPE": "way", "OSM_ID": 242342342, "NAME": "Плантации виноградников" }, "geometry": { "type": "Point", "coordinates": [ 37.753451483993857, 44.663611141746031 ] } },
+{ "type": "Feature", "properties": { "fid": 31, "NATURAL": "field", "OSM_TYPE": "way", "OSM_ID": 5345345, "NAME": "Плантации виноградников" }, "geometry": { "type": "Point", "coordinates": [ 37.760162602790977, 44.666349580167903 ] } },
+{ "type": "Feature", "properties": { "fid": 32, "NATURAL": "field", "OSM_TYPE": "way", "OSM_ID": 5643334, "NAME": "Плантации виноградников" }, "geometry": { "type": "Point", "coordinates": [ 37.759796932856531, 44.669730378762097 ] } }
+]
+}
