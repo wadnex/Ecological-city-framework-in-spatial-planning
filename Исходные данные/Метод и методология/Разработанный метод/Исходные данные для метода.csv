@@ -1,0 +1,22 @@
+﻿Исходные данные OSM;;;
+Сервис;Формат;Атрибут;Тип
+Зеленая инфраструктура;geojson;-          name;-          polygon
+;;-          area;-          points
+;;-          lon;
+;;-          lat;
+Типы поверхностей;geojson;-          name;-          polygon
+;;-          area;
+;;-          landuse;
+;;-          lon;
+;;-          lat;
+Здания;geojson;-          name;-          polygon
+;;-          area;-          points
+;;-          address;
+;;-          is_living;
+Транспортная ;geojson;-          name;-          lines
+инфраструктура;;-          highway;-          points
+;;-          surface;
+Административные ;geojson;-          name;-          lines
+границы;;-          area;-          polygon
+;;-          admin_lvl;
+;;-          population;
